@@ -1,3 +1,4 @@
+// Hey, I'm here with a fork!
 var allUniqueChars = function(string) {
   
   // O(n^2) approach, no additional data structures used
