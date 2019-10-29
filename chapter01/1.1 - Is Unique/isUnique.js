@@ -1,4 +1,5 @@
 // Hey, I'm here with a fork!
+// This is my first Fork!
 var allUniqueChars = function(string) {
   
   // O(n^2) approach, no additional data structures used
